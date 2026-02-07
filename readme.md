@@ -4,7 +4,7 @@ Ye project **sirf HTML aur CSS** use karke banaya gaya hai (koi JavaScript ya fr
 
 ---
 
-## ✨ Features 
+## ✨ Features
 
 - **Professional Header**: Logo animation, navigation links aur CTA buttons ke saath sleek header.
 - **Hero Section**: Catchy heading, description aur macOS download button ke saath.
@@ -54,52 +54,62 @@ cursor-landing-page/
 ## 🎨 Main Sections
 
 ### 1. **Header Section**
+
 - Animated logo aur title
 - Centered navigation menu
 - Sign in aur Download buttons
 
 ### 2. **Download Section**
+
 - Motivational heading
 - macOS download button with arrow icon
 - Beautiful typography
 
 ### 3. **Main Image Container**
+
 - Responsive image layout
 - Cursor overlay effect
 - Refresh icon button (absolute positioned)
 
 ### 4. **Sponsored Companies Grid**
+
 - 8-column responsive grid
 - Company logos showcase
 - Professional styling
 
 ### 5. **Product Container**
+
 - Left: Text content (30%)
 - Right: Product image (70%)
 - Modern dark theme with brown accent
 
 ### 6. **Feature Two Container**
+
 - Left: 2x1 grid mein dual images (70%)
 - Right: Text content (30%)
 - Image showcase layout
 
 ### 7. **Feature Three Container**
+
 - Exact product container jaisa layout
 - Left: Text content (30%)
 - Right: Image with accent color (70%)
 
 ---
 
-## 🚀 Locally Kaise Run Karein 
+## 🚀 Locally Kaise Run Karein
 
 ### Option 1: Direct Browser Mein Open
+
 1. Project ko download ya clone karein.
 2. `index.html` file ko apne browser (Chrome, Safari, Firefox, Edge) mein directly open karein.
 3. Done! Landing page ready hai.
 
 ### Option 2: VS Code Live Server (Recommended)
+
 1. VS Code mein project folder open karein.
 2. **Live Server** extension install karein (Ritwick Dey wala).
 3. `index.html` par right-click karein aur **"Open with Live Server"** select karein.
 4. Browser automatically khul jayega local server par.
 
+[Visit Cursor Landing Page](https://atulproject99.github.io/cursor-landing-page/)
